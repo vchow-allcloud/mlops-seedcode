@@ -7,7 +7,7 @@ on:
       - pipelines/**
 env:
   AWS_REGION: us-west-2
-  SAGEMAKER_PROJECT_NAME: aws-mlops-example-v6
+  SAGEMAKER_PROJECT_NAME: mlops-seedcode-v2
 
 jobs:
   Build:
